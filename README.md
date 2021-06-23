@@ -1,10 +1,10 @@
 ### My projects:
-Robocop https://github.com/MarketSquare/robotframework-robocop <div align="left">[![Downloads](https://pepy.tech/badge/robotframework-robocop)](https://pepy.tech/project/robotframework-robocop)</div>  
-Robotidy https://github.com/MarketSquare/robotframework-tidy <div align="left">[![Downloads](https://pepy.tech/badge/robotframework-tidy)](https://pepy.tech/project/robotframework-tidy)</div>
+Robocop https://github.com/MarketSquare/robotframework-robocop <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-robocop)](https://pepy.tech/project/robotframework-robocop)</div>  
+Robotidy https://github.com/MarketSquare/robotframework-tidy <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-tidy)](https://pepy.tech/project/robotframework-tidy)</div>
 
 Other: 
-https://github.com/bhirsz/robotframework-templateddata <div align="left">[![Downloads](https://pepy.tech/badge/robotframework-templateddata)](https://pepy.tech/project/robotframework-templateddata)</div>  
-https://github.com/bhirsz/robotframework-clean (deprecated in favour of Robotidy) <div align="left">[![Downloads](https://pepy.tech/badge/robotframework-clean)](https://pepy.tech/project/robotframework-clean)</div>  
+https://github.com/bhirsz/robotframework-templateddata <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-templateddata)](https://pepy.tech/project/robotframework-templateddata)</div>  
+https://github.com/bhirsz/robotframework-clean (deprecated in favour of Robotidy) <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-clean)](https://pepy.tech/project/robotframework-clean)</div>  
 
 <!--
 **bhirsz/bhirsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
