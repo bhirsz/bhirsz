@@ -1,3 +1,5 @@
+My linkedn: https://www.linkedin.com/in/bartlomiej-hirsz/
+
 ### My projects:
 Robocop https://github.com/MarketSquare/robotframework-robocop <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-robocop)](https://pepy.tech/project/robotframework-robocop)</div>
 Robotidy https://github.com/MarketSquare/robotframework-tidy <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-tidy)](https://pepy.tech/project/robotframework-tidy)</div>
