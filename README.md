@@ -4,8 +4,8 @@ Feel free to contact me using my email (bartek.hirsz@gmail.com) or linkedn (http
 ### My projects:
 Robocop https://github.com/MarketSquare/robotframework-robocop <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-robocop)](https://pepy.tech/project/robotframework-robocop)</div>
 Robotidy https://github.com/MarketSquare/robotframework-tidy <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-tidy)](https://pepy.tech/project/robotframework-tidy)</div>
-Sherlock https://github.com/MarketSquare/robotframework-sherlock <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-sherlock)](https://pepy.tech/project/robotframework-sherlock)</div>
 
 Other:
 
 https://github.com/bhirsz/robotframework-templateddata <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-templateddata)](https://pepy.tech/project/robotframework-templateddata)</div>
+Sherlock https://github.com/MarketSquare/robotframework-sherlock <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-sherlock)](https://pepy.tech/project/robotframework-sherlock)</div>
