@@ -8,4 +8,3 @@ Robotidy https://github.com/MarketSquare/robotframework-tidy <div align="right">
 Other:
 
 https://github.com/bhirsz/robotframework-templateddata <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-templateddata)](https://pepy.tech/project/robotframework-templateddata)</div>
-Sherlock https://github.com/MarketSquare/robotframework-sherlock <div align="right">[![Downloads](https://pepy.tech/badge/robotframework-sherlock)](https://pepy.tech/project/robotframework-sherlock)</div>
